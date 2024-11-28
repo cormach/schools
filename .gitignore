@@ -1,0 +1,6 @@
+notebooks/data/*
+notebooks/data_downloads_website/*
+notebooks/supporting-files/*
+*.csv
+*.xlsx
+notebooks/data-guidance/data-guidance.txt
